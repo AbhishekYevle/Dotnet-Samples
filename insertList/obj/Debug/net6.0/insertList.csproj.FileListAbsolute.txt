@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\insertList\bin\Debug\net6.0\insertList.exe
+C:\Users\yevlea\Practicals\insertList\bin\Debug\net6.0\insertList.deps.json
+C:\Users\yevlea\Practicals\insertList\bin\Debug\net6.0\insertList.runtimeconfig.json
+C:\Users\yevlea\Practicals\insertList\bin\Debug\net6.0\insertList.dll
+C:\Users\yevlea\Practicals\insertList\bin\Debug\net6.0\insertList.pdb
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\insertList.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\insertList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\insertList.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\insertList.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\insertList.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\insertList.dll
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\refint\insertList.dll
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\insertList.pdb
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\insertList.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\insertList\obj\Debug\net6.0\ref\insertList.dll

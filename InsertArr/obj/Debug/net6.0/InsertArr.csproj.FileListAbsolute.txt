@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\InsertArr.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\InsertArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\InsertArr.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\InsertArr.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\InsertArr.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\InsertArr\bin\Debug\net6.0\InsertArr.exe
+C:\Users\yevlea\Practicals\InsertArr\bin\Debug\net6.0\InsertArr.deps.json
+C:\Users\yevlea\Practicals\InsertArr\bin\Debug\net6.0\InsertArr.runtimeconfig.json
+C:\Users\yevlea\Practicals\InsertArr\bin\Debug\net6.0\InsertArr.dll
+C:\Users\yevlea\Practicals\InsertArr\bin\Debug\net6.0\InsertArr.pdb
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\InsertArr.dll
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\refint\InsertArr.dll
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\InsertArr.pdb
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\InsertArr.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\InsertArr\obj\Debug\net6.0\ref\InsertArr.dll

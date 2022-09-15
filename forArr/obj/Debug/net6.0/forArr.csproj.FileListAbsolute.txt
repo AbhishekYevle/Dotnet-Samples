@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\forArr.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\forArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\forArr.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\forArr.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\forArr.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\forArr\bin\Debug\net6.0\forArr.exe
+C:\Users\yevlea\Practicals\forArr\bin\Debug\net6.0\forArr.deps.json
+C:\Users\yevlea\Practicals\forArr\bin\Debug\net6.0\forArr.runtimeconfig.json
+C:\Users\yevlea\Practicals\forArr\bin\Debug\net6.0\forArr.dll
+C:\Users\yevlea\Practicals\forArr\bin\Debug\net6.0\forArr.pdb
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\forArr.dll
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\refint\forArr.dll
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\forArr.pdb
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\forArr.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\forArr\obj\Debug\net6.0\ref\forArr.dll
