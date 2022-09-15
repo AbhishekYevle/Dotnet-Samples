@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\SearchArr.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\SearchArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\SearchArr.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\SearchArr.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\SearchArr.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\SearchArr\bin\Debug\net6.0\SearchArr.exe
+C:\Users\yevlea\Practicals\SearchArr\bin\Debug\net6.0\SearchArr.deps.json
+C:\Users\yevlea\Practicals\SearchArr\bin\Debug\net6.0\SearchArr.runtimeconfig.json
+C:\Users\yevlea\Practicals\SearchArr\bin\Debug\net6.0\SearchArr.dll
+C:\Users\yevlea\Practicals\SearchArr\bin\Debug\net6.0\SearchArr.pdb
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\SearchArr.dll
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\refint\SearchArr.dll
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\SearchArr.pdb
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\SearchArr.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\SearchArr\obj\Debug\net6.0\ref\SearchArr.dll
